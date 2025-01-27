@@ -1,0 +1,8 @@
+colors.txt
+
+#E0D3BA
+#E0D3BA
+#DECBCD
+#D9BE98
+Light gray    #d3d4d6
+Off-white     #f6f6f6
